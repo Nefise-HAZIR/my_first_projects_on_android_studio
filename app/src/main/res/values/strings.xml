@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="cities">
+        <item>Adana</item>
+        <item>Ankara</item>
+        <item>Mardin</item>
+        <item>Eskişehir</item>
+    </string-array>
+
+</resources>
